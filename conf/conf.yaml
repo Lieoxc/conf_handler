@@ -1,0 +1,12 @@
+# 数据库地址
+db_host: 127.0.0.1
+# 数据库端口
+db_port: 3306
+# 数据库账号
+db_user: root
+# 数据库密码
+db_passwd: asd1314lxc
+# 数据库名称
+db_name: dcat-admin
+# 数据库参数
+db_params: charset=utf8mb4&parseTime=true&loc=Local
